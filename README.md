@@ -28,6 +28,14 @@ The goal is to translate raw customer data into actionable business insights tha
 
 ---
 
+## 📊 Dashboard Screenshots
+
+### 🔹 Dashboard Overview
+<img width="886" height="498" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/da75739a-859b-4d91-8212-637eb377ff5f" />
+
+
+---
+
 ## 📄 File Description
 - **Customer_Trends_EDA.ipynb**  
   Contains the complete Exploratory Data Analysis including data cleaning, transformations, visualizations, and insights.
