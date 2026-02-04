@@ -58,15 +58,7 @@ The goal is to translate raw customer data into actionable business insights tha
 - Helps businesses identify their most valuable customers  
 - Supports targeted marketing and personalized offers  
 - Improves decision-making through data-backed insights  
-- Serves as a strong base for BI dashboards and reporting  
-
----
-
-## 🚀 Future Enhancements
-- Build an interactive dashboard using Power BI or Tableau  
-- Add predictive analysis for customer churn or spending behavior  
-- Automate data updates and reporting  
-- Integrate SQL for scalable data handling  
+- Serves as a strong base for BI dashboards and reporting   
 
 ---
 
