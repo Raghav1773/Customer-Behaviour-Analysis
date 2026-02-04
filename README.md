@@ -62,7 +62,7 @@ The goal is to translate raw customer data into actionable business insights tha
 
 ---
 
-## 👤 Author
+## ✍️ Author
 **Raghav Sharma**  
 Aspiring Data Analyst  
 Skills: Python, SQL, Power BI, Data Visualization
